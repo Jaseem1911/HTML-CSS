@@ -1,0 +1,12 @@
+h1{
+    color: green;
+}
+#a{
+    color: red;
+}
+div{
+    background-color: aqua;
+}
+.img{
+   background-color: linear gradient=bisque 0%,red 20%;
+}
