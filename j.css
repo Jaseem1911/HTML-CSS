@@ -1,0 +1,19 @@
+#a{
+    
+    margin-inline-start: 200px;
+    margin-top: -20px;
+}
+#b{
+    margin-inline-start: 200px;
+}
+table{
+    border-collapse: collapse;
+    border: 4px solid black;
+    border-style: dashed;
+    background: linear-gradient(to bottom,skyblue 30%,violet 100%);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: 16px;
+    font-style:normal;
+    font-weight: bold;
+}
